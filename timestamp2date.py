@@ -1,6 +1,6 @@
 '''
 Author: v4lerio
-Source: https://github.com/v4lerio/burp-playground/timestamp2date.py
+Source: https://github.com/v4lerio/burp-playground/blob/main/timestamp2date.py
 
 Based on https://github.com/PortSwigger/example-custom-editor-tab/blob/master/python/CustomEditorTab.py
 '''
